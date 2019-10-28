@@ -13,9 +13,9 @@ class About extends Component {
               <h2>About Me</h2>
               <p className="about-text">
                 Hi, my name is Gema Muhammad Reza and I'm a web developer who's currently
-                working at Skyshi Digital Indonesia, located in Yogyakarta as a front-end developer.
+                working at Skyshi Digital Indonesia, located in Yogyakarta, Indonesia as a front-end developer. 🌴
                 Outside of programming I like to play some online games, such as DOTA2, PUBG, APEX, and
-                do anything fun.
+                do anything fun. 🚀
               </p>
               <div className="row">
                 <div className="columns contact-details">

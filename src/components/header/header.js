@@ -14,8 +14,8 @@ class Header extends Component {
             <li className="current"><a className="smoothscroll" href="#about">About</a></li>
             <li className="current"><a className="smoothscroll" href="#resume">Resume</a></li>
             <li className="current"><a className="smoothscroll" href="#contact">Contact</a></li>
-          </ul> {/* end #nav */}
-        </nav> {/* end #nav-wrap */}
+          </ul> 
+        </nav> 
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">I'm {propsHeader.name}.</h1>
